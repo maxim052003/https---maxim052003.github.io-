@@ -1,0 +1,126 @@
+
+.middle1{
+
+	text-align: center;
+	padding-top: 20%;
+	color: white;
+	  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	               0px 8px 13px rgba(0,0,0,0.1),
+	               0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+
+.navbar-inverse{
+
+	background-color:white;
+}
+
+html{
+	height: 100%;
+}
+
+
+h1{
+	font-size: 5em;
+	font-weight: 600;
+    color: yellow;
+
+}
+
+h3{}
+
+#div1{
+
+	
+	background:url(https://images.unsplash.com/photo-1520808663317-647b476a81b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1953&q=80);
+		background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+		font-family: primetime;
+		padding-bottom: 200px;
+		
+}
+#div2{
+background: url(https://images.unsplash.com/photo-1519878500836-4b4f296314ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1047&q=80);
+background-position: center;
+background-size: cover;
+
+
+}
+
+.div3{
+
+	background: url(https://images.unsplash.com/photo-1501791187590-9ef2612ba1eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 450px;
+}
+.navbar-inverse .navbar-brand{
+	color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+
+	color: black;
+	font-family: Raleway;
+}
+
+
+/*hr is the underline (HTML)*/
+hr{
+   width: 600px;
+
+}
+
+button{
+	font-family: primetime;
+	background-color: yellow;
+}
+
+.btn-default {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.562);
+	border-color: rgb(0, 0, 0);
+	font-family: Raleway;
+}
+
+#info{
+ padding-top: 20%;
+ color: yellow;
+}
+
+.ulinfo{
+	width: 25%;
+}
+
+.pinfo{
+	padding-top: 1%;
+	color: white;
+	font-size: 1.5em;
+	margin-bottom: 10%;
+	background-color: rgba(0, 0, 0, 0.445);
+
+}
+
+.pnfo{
+	padding-top: 1%;
+	color: white;
+	font-size: 1.5em;
+	margin-bottom: 3%;
+}
+
+.leftborder{
+	border-left: solid 5px yellow;
+	padding-left: 3%;
+	margin-top: 5%;
+}
+
+
+
+.hrsub{
+	width: 20%;
+	color: yellow;
+  
+}
